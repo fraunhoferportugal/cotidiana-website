@@ -8,7 +8,6 @@
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .section {
   padding: 8rem 0 7rem;
-  text-align: center;
 }
 .section-heading,
 .section-description {
@@ -151,25 +150,24 @@
 }
 
 /* Logo and navigation */
-img.logo{
+header {
 	margin-top: 30px;
-	height: 40px;
-	clear: left;
+}
+
+img.logo{
+	height: 38px;
+	width: 38px;
+	float: left;
 }
 
 nav.primary {
-	margin-top: 30px;
-}
-
-nav.primary ul,
-nav.primary ul li {
-	margin: 0px;
+	float: right;
 }
 
 nav.primary ul li {
 	display: inline;
-	padding-right: 10px;
-	padding-left: 10px;
+	margin: 0px;
+	padding-left: 20px;
 }
 
 nav.primary ul li a {
@@ -180,7 +178,6 @@ nav.primary ul li a {
 	color: #3b4c70;
 }
 
-
 nav.primary ul li a:hover {
 	cursor: pointer;
 	border-bottom: 3px solid #3b4c70;
@@ -188,6 +185,18 @@ nav.primary ul li a:hover {
 
 nav.primary ul li a.active {
     border-bottom: 3px solid #3b4c70;
+}
+
+/* Entry page */
+img.first-page-figures {
+	height: 300px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+strong.text {
+	background-color: #f2fcff;
 }
 
 
