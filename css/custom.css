@@ -199,6 +199,15 @@ strong.text {
 	background-color: #f2fcff;
 }
 
+div.footer {
+	text-align: center;
+}
+
+img.footer-logo {
+	height: 60px;
+	margin-left: 30px;
+}
+
 
 /* Override */
 
