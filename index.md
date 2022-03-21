@@ -23,11 +23,18 @@ The COTIDIANA solution will actively monitor:
 
 The COTIDIANA solution also offers Patient-Reported Outcome Measures (PROMs). The product will feature some PROMs that apply to different rheumatic conditions and that were validated in usability tests with older adult patients. Clinicians will also be able to personalise the PROMs that patients see in their smartphone, according to the processes followed at their clinic or drug trial. <br/>
 
-<p align="center">
-	<img src="assets/img/painPROM.png" alt="Pain PROM" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="assets/img/sleepPROM.png" alt="Sleep PROM" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="assets/img/reporthealthevent.png" alt="Report health event" width="200"/>
-</p>
+
+<div class="row">
+	<div class="col-sm-3">
+		<img src="assets/img/painPROM.png" alt="Pain PROM" width="200"/>
+	</div>
+	<div class="col-sm-3">
+		<img src="assets/img/sleepPROM.png" alt="Sleep PROM" width="200"/>
+	</div>
+	<div class="col-sm-3">
+		<img src="assets/img/reporthealthevent.png" alt="Report health event" width="200"/>
+	</div>
+</div>
 <br/>
 
 ## Patient monitoring at a distance
