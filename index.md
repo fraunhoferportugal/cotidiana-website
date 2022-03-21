@@ -25,13 +25,13 @@ The COTIDIANA solution also offers Patient-Reported Outcome Measures (PROMs). Th
 
 
 <div class="row">
-	<div class="col-sm-3">
+	<div class="col-sm-4">
 		<img src="assets/img/painPROM.png" alt="Pain PROM" width="200"/>
 	</div>
-	<div class="col-sm-3">
+	<div class="col-sm-4">
 		<img src="assets/img/sleepPROM.png" alt="Sleep PROM" width="200"/>
 	</div>
-	<div class="col-sm-3">
+	<div class="col-sm-4">
 		<img src="assets/img/reporthealthevent.png" alt="Report health event" width="200"/>
 	</div>
 </div>
