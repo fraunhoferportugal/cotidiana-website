@@ -20,6 +20,8 @@ The motivation for the project stems from the increase in the number of patients
 
 COTIDIANA project will be co-designed with end-users and stakeholders. The project starts with ethnographic and participatory research with with patients, clinicians, as well as with a broad group of stakeholders which include clinical researchers, people from Pharma, or Clinical Research Organizations. Laboratory data collections with patients will also be planned and performed, for training passive sensing algorithms and crafting digital endpoints. In parallel, the project will develop a mobile app for patients and a web app for clinicians and clinical researchers. The developed solution will be assessed in three field trials, one of which focused on technological feasibility and the two others focused on clinical care and clinical research or drug trials.
 
+At this point, we are working mostly with osteoarthritis, rheumatoid arthritis, and psoriatic arthritis, some of the most common rheumatic conditions. In Austria we will involve people with Sjögren Syndrome.
+
 Following a successful project, the COTIDIANA solution will be commercialised by two companies from the consortium, providing hospitals, clinics, and Pharma, with a solution that provides rich data about the current health state of their patients with rheumatic conditions.<br/><br/>
 
 

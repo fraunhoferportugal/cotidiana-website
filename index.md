@@ -4,7 +4,10 @@ title: COTIDIANA
 # subtitle: 
 ---
 
-The COTIDIANA solution will enable holistic and efficient patient monitoring for clinical care, clinical research, and drug trials. It includes a mobile app, for patients, and a web app, for clinicians engaging in clinical care or clinical researchers working on drug trials. COTIDIANA solution is currently under development and is expected to be a medical device under commercialisation at the end of 2023.<br/><br/>
+The COTIDIANA solution will enable holistic and efficient patient monitoring for clinical care, clinical research, and drug trials. It includes a mobile app, for patients, and a web app, for clinicians engaging in clinical care or clinical researchers working on drug trials. COTIDIANA solution is currently under development and is expected to be a medical device under commercialisation in 2024.<br/><br/>
+
+
+`We are looking for volunteers to join our research. If you live in Portugal or Austria and have osteoarthritis, rheumatoid arthritis, psoriatic arthritis, or Sjögren syndrome, you may be able to participate in field trials or other research activities. Feel free to contact us.` <br/><br/>
 
 
 ## Objetive condition monitoring
