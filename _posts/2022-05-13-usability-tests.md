@@ -1,7 +1,7 @@
 ---
 layout: post
 title: COTIDIANA undergoes usability tests
-subtitle: First version tested in Porto, Portugal
+subtitle: First version of mobile app tested in Porto
 gh-repo: daattali/beautiful-jekyll
 tags: [COTIDIANA app, testing, end-users]
 comments: false
