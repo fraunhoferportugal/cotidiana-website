@@ -19,10 +19,10 @@ The last weeks were marked by usability tests with end-users. As a high fidelity
 
 
 <div class="row">
-	<div class="col-sm-4">
-		<img src="{{site.baseurl}}/assets/img/usability-test-3.jpg" alt="Picture from usability test" width="300"/>
+	<div class="col">
+		<img src="{{site.baseurl}}/assets/img/usability-test-3.jpg" alt="Picture from usability test" width="400"/>
 	</div>
-	<div class="col-sm-4">
-		<img src="{{site.baseurl}}/assets/img/usability-test-4.jpg" alt="Picture from usability test" width="300"/>
+	<div class="col">
+		<img src="{{site.baseurl}}/assets/img/usability-test-4.jpg" alt="Picture from usability test" width="400"/>
 </div>
 <br/>
