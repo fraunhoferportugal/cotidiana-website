@@ -26,7 +26,8 @@ The project COTIDIANA started in April 2021 and finishes in July 2023. Neverthel
 * [D1.2 Project management plan](/files/D1.2_Project management plan.pdf)
 * [D1.4 Ethics and privacy training materials](/files/D1.4_Ethics and privacy training materials.zip)
 * [D1.6 Data management plan (b)](/files/D1.6_Data Management Plan_b.pdf)
-* [D5.2 Market research & technology watch (a)](files/D5.2 Market research & technology watch_a.pdf)<br/><br/>
+* [D5.2 Market research & technology watch (a)](files/D5.2 Market research & technology watch_a.pdf)
+* [D5.7 Dissemination report_a](files/D5.2 Market research & technology watch_a.pdf)<br/><br/>
 
 
 ## Publications
