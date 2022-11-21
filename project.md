@@ -27,12 +27,10 @@ Following a successful project, the COTIDIANA solution will be commercialised by
 
 ## Consortium
 
-The COTIDIANA project is being pursued by a consortium of six institutions, covering expertise in technological development, rheumatology, User-Centred and Participatory Design, and business. The project partners are:
+The COTIDIANA project is being pursued by a consortium of five institutions, covering expertise in technological development, rheumatology, User-Centred and Participatory Design, and business. The project partners are:
 
 
 **Fraunhofer Portugal AICOS (coordinator)** is an applied research centre focused on supporting industry through research- and technology-based innovation, namely in the healthcare sector. The centre has a strong track record of co-designing technologies to support health condition monitoring and self-care of older people living with chronic conditions. Main research areas are Human-Centred Design, Artificial Intelligence, and Cyber-physical systems. <https://www.aicos.fraunhofer.pt>
-
-**Definition12 AG** is an SME specialized in engineering and distribution of medical mobile applications. Founded in 2000, the company started developing medical products for smartphones and tablets early on and was the first swiss company to use iPads for multi-center, global, clinical trials, in pharmaceutical phase III studies. This particular system was used in more than 30 countries and 450 hospitals, successfully collecting +100'000 patient records. Currently, Defintition12 is developing a tele-rehabilitation product for stroke patients in cooperation with the University of Bern. Moreover, Definition12 distributes its own products in the area of emergency / rescue medicine and breast cancer. <https://www.definition12.com>
 
 **Mag. Andreas Raffeiner GmbH** is an Austrian CRO, specialized in project management and monitoring of clinical trials on medicinal products for human use. RAFFEINER strives for ongoing improvement and extension in quality and expertise in current and new business areas. Highly qualified staff, customer-tailored solutions and personal commitment have been well-known advantages of the company ever since launching in 2002. RAFFEINER develops and commercialises the Studymate Pro, an electronic Case Report Form, that gathers data from drug trials and can be delivered to drug regulators (e.g. EMA). <https://www.studien-monitor.at>
 
