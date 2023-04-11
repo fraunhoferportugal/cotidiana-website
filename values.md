@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Values
-# subtitle: Why you'd want to go on a date with me
+# subtitle: 
 ---
 
 The COTIDIANA consortium is creating a highly innovative solution that is not free from ethical challenges. To promote an appropriate environment for patients and their clinicians we subscribe to the following principles:
