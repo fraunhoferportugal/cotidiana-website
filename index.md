@@ -6,7 +6,6 @@ title: COTIDIANA
 
 The COTIDIANA solution will enable holistic and efficient patient monitoring for clinical care, clinical research, and drug trials. It includes a mobile app, for patients, and a web app, for clinicians engaging in clinical care or clinical researchers working on drug trials. COTIDIANA solution is currently under development and is expected to be a medical device under commercialisation in 2024.<br/><br/>
 
-
 ## Objetive condition monitoring
 
 The key selling point of the COTIDIANA solution is its ability to collect data about the patients' condition, without active intervention. The simple use of the smartphone will generate data about the patient's condition state that can be used to inform clinical encounters and contribute to care of clinical research.
