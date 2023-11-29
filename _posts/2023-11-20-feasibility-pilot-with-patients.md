@@ -7,7 +7,7 @@ tags: [COTIDIANA app, end-users, feasibility pilot, trials]
 comments: false
 ---
 
-The development of COTIDIANA has finished and we started the validation of the system with end-users. The trials in Lisbon are focused on assessing the usability of the system, as well as understanding the potential of passive sensing modules in capturing the condition state of patients with Knee or Hip Osteoarthritis. The feasibility pilot will run for three months in three different hospitals: CHULC - Hospital Santo António dos Capuchos, Hospital Lusíadas, and CHLO - Hospital de Egas Moniz.
+The development of COTIDIANA has finished and we started the validation of the system with end-users. The trials in Lisbon are focused on assessing the usability of the system, as well as understanding the potential of passive sensing modules to capture the condition state of patients with Knee or Hip Osteoarthritis. The feasibility pilot will run for three months in three different hospitals: CHULC - Hospital Santo António dos Capuchos, Hospital Lusíadas, and CHLO - Hospital de Egas Moniz.
 
 We are excited to have patients and clinicians using the COTIDIANA system and look forward to the first impressions and results.
 
