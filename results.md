@@ -14,6 +14,9 @@ The project COTIDIANA started in April 2021 and finishes in July 2023. Neverthel
 
 ## Publications
 
+* Nunes, F., Grego, P. R., Araújo, R., Silva, P. A. (2023) **Self-report user interfaces for patients with Rheumatic and Musculoskeletal Diseases: App review and usability experiments with mobile user interface components**, in _Computers & Graphics_. [PDF](/files/Article2.pdf) [DOI](http://dx.doi.org/10.1016/j.cag.2023.10.009).
+* Rêgo S., Henriques A. R., Serra, S. S., Costa, T., Rodrigues A. M., Nunes, F. (2023) **Methods for the Clinical Validation of Digital Endpoints: Protocol for a Scoping Review**, in _JMIR Research Protocols_. [PDF](https://www.researchprotocols.org/2023/1/e47119/PDF) [DOI](http://dx.doi.org/10.2196/47119).
+* Araújo, R., Matias, P., Studenic, P., Valada, M., Graca, R., Nakhost Lotfi, N., Belo, D., Nunes, F. (2023) **POS0978 EXPLORING SMARTPHONE-BASED DIGITAL ENDPOINTS FOR RHEUMATIC CONDITIONS**, in _Annals of the Rheumatic Diseases_. [PDF](https://ard.bmj.com/content/annrheumdis/82/Suppl_1/805.1.full.pdf) [DOI](http://dx.doi.org/10.1136/annrheumdis-2023-eular.4848).
 * Andersen, T., Nunes, F., Wilcox, L., Kaziunas, E., Matthiesen, S., Magrabi, F. (2021) **Realizing AI in Healthcare: Challenges Appearing in the Wild**, in _Proc. of CHI 2021_. [PDF](/files/Article1.pdf) [DOI](http://dx.doi.org/10.1145/3411763.3441347).<br/><br/>
 
 
